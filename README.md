@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Java + Spring Boot + React Projects**
 - 🌱 I’m currently learning **Microservices, Docker, and AWS**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/your-username)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Deepakrajput52)
 - 💬 Ask me about **Java, Spring Boot, Hibernate, React, MySQL**
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me djrajput200@gmail.com.
 - ⚡ Fun fact **I debug faster than I cook noodles 🍜**
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -20,10 +20,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepakrajput52&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
 ---
 
-⭐️ From [Deepak](https://github.com/your-username)
+⭐️ From [Deepak](https://github.com/Deepakrajput52)
 

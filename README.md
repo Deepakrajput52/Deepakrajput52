@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on **Java + Spring Boot + React Projects**
-- 🌱 I’m currently learning **Microservices, Docker, and AWS**
+- 🌱 I’m currently learning **Microservices, Docker**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Deepakrajput52)
 - 💬 Ask me about **Java, Spring Boot, Hibernate, React, MySQL**
-- 📫 How to reach me djrajput200@gmail.com.
+- 📫 How to reach me deepakrajput5219@gmail.com.
 - ⚡ Fun fact **I debug faster than I cook noodles 🍜**
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
